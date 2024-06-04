@@ -1,0 +1,15 @@
+{
+	"Lua.diagnostics.globals": [
+		"InterfaceOptionsFrame_OpenToCategory",
+		"PlayerCastingBarFrame",
+		"CR_HASTE_SPELL",
+		"FocusFrameSpellBar",
+		"UNKNOWN",
+		"StaticPopupDialogs",
+		"READY_CHECK",
+		"MirrorTimerContainer",
+		"PetCastingBarFrame",
+		"TargetFrameSpellBar",
+		"ProfessionsFrame"
+	]
+}
